@@ -1,17 +1,23 @@
-# morpheus
+# Morpheus – AI Destekli Rüya Analizi Uygulaması
 
-A new Flutter project.
+Morpheus, kullanıcıların rüyalarını kaydedip yapay zeka desteğiyle yorum almasını sağlayan Flutter tabanlı mobil uygulamadır.
 
-## Getting Started
+## Özellikler
+- Rüya metnine göre AI destekli yorumlama
+- Firebase Authentication ile kullanıcı giriş/kayıt sistemi
+- Firestore ile gerçek zamanlı veri saklama
+- Rüya geçmişi ve favori kaydetme
+- Dark theme kullanıcı arayüzü
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
+- Flutter / Dart
+- Firebase Authentication
+- Cloud Firestore
+- Claude AI API
+- Android
 
-A few resources to get you started if this is your first Flutter project:
+## Proje Amacı
+Bu proje; mobil uygulama geliştirme, Firebase entegrasyonu, API kullanımı ve kullanıcı odaklı arayüz tasarımı konularında pratik yapmak amacıyla geliştirilmiştir.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Not
+Uygulama geliştirme ve yayınlama süreci devam etmektedir.
