@@ -21,3 +21,12 @@ Bu proje; mobil uygulama geliştirme, Firebase entegrasyonu, API kullanımı ve 
 
 ## Not
 Uygulama geliştirme ve yayınlama süreci devam etmektedir.
+## Screenshots
+
+![1](WhatsApp%20Image%202026-04-29%20at%2002.21.24%20(1).jpeg)
+![2](WhatsApp%20Image%202026-04-29%20at%2002.21.24%20(2).jpeg)
+![3](WhatsApp%20Image%202026-04-29%20at%2002.21.24%20(3).jpeg)
+![4](WhatsApp%20Image%202026-04-29%20at%2002.21.24%20(4).jpeg)
+![5](WhatsApp%20Image%202026-04-29%20at%2002.21.24%20(5).jpeg)
+![6](WhatsApp%20Image%202026-04-29%20at%2002.21.28%20(1).jpeg)
+![7](WhatsApp%20Image%202026-04-29%20at%2002.21.28%20(2).jpeg)
