@@ -15,7 +15,7 @@ class DreamAnalysisResult {
 }
 
 class GeminiService {
-  static const _apiKey = 'AIzaSyC63wYRRU3-Ve5Q9GwSARFoeZnWu57c6ko';
+  static const _apiKey = 'YOUR_API_KEY';
 
   static Future<DreamAnalysisResult> analyzeDream(Dream dream) async {
     try {
